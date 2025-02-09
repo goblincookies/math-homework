@@ -13,6 +13,9 @@ body {
     width: 100%;
     /* padding: 5rem;    */
 }
+button {
+    padding: 0.2rem;
+}
 .page {
     /* border: 2px solid red; */
     padding: 2%;
